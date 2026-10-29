@@ -1,1 +1,0 @@
-- **fix(providers):** Preserve DeepSeek Web error hints, return HTTP 429 for explicit upstream rate-limit rejections, and fail rejected streams without reporting a successful completion. ([#](<>)), thanks @Hector-Ha.
